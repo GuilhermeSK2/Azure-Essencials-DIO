@@ -1,0 +1,33 @@
+Comutação em nuvem
+
+Nuvem privada = Ambiente somente no datacenter da empresa, de total responsabbilidade da empresa.
+	As organizaões tem controle total sobre os recursos e a segurança.
+	As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
+
+Nuvem Pública = Pertence a serviços de nuvem ou provedor de hosting, fornece recursos e serviços a várias organizações e usuários, acessada via conexão de rede segura.   Ex. Microsoft Azure e AWS
+	Nenhuma despesa de captal para escalar verticalmente.
+	Os aplicativos podem ser provisionados e desprovisionados rapidamente.
+	As organizações pagam apenas pelo que utilizam.
+
+Nuvem Híbrida = Os dois mundos, combina a pública com a privada.
+	As organizações determinam onde executar seus aplicativos.
+	As organizações controlam a segurança, a conformidade e os requisitos legais.
+	Fornece a maior flexibilidade.
+
+Multicloud = Vários serviços de cloud com possiblidade de utlizar o datacenter junto também.
+
+
+
+CapEx = Dispesas iniciais de dinheiro em infraestrutura física.  As despesas do CapEx tem um valor que se reduz com o tempo.
+
+OpeEx = Gastar com produtos e serviços conforme necessário, pagamento conforme o uso.  Seja cobrado imediatamente.
+
+
+
+
+
+Modelo baseado em consumo = Os provedore de serviços em nuvem operam em um modelo baseado, o que significa que os usuários finais pagam somente pelos recursos que usam.
+
+		Melhor previsão de custos
+		São fornecidos preços para recursos e serviços individuais.
+		A cobrança é feita com base no seu uso real.
