@@ -1,33 +1,85 @@
-Comutação em nuvem
+											
 
-Nuvem privada = Ambiente somente no datacenter da empresa, de total responsabbilidade da empresa.
-	As organizaões tem controle total sobre os recursos e a segurança.
-	As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
-
-Nuvem Pública = Pertence a serviços de nuvem ou provedor de hosting, fornece recursos e serviços a várias organizações e usuários, acessada via conexão de rede segura.   Ex. Microsoft Azure e AWS
-	Nenhuma despesa de captal para escalar verticalmente.
-	Os aplicativos podem ser provisionados e desprovisionados rapidamente.
-	As organizações pagam apenas pelo que utilizam.
-
-Nuvem Híbrida = Os dois mundos, combina a pública com a privada.
-	As organizações determinam onde executar seus aplicativos.
-	As organizações controlam a segurança, a conformidade e os requisitos legais.
-	Fornece a maior flexibilidade.
-
-Multicloud = Vários serviços de cloud com possiblidade de utlizar o datacenter junto também.
+											Comutação em nuvem
 
 
 
-CapEx = Dispesas iniciais de dinheiro em infraestrutura física.  As despesas do CapEx tem um valor que se reduz com o tempo.
+	Nuvem privada = Ambiente somente no datacenter da empresa, de total responsabbilidade da empresa.
+		As organizaões tem controle total sobre os recursos e a segurança.
+		As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
 
-OpeEx = Gastar com produtos e serviços conforme necessário, pagamento conforme o uso.  Seja cobrado imediatamente.
+	Nuvem Pública = Pertence a serviços de nuvem ou provedor de hosting, fornece recursos e serviços a várias organizações e usuários, acessada via conexão de rede segura.   Ex. Microsoft Azure e AWS
+		Nenhuma despesa de captal para escalar verticalmente.
+		Os aplicativos podem ser provisionados e desprovisionados rapidamente.
+		As organizações pagam apenas pelo que utilizam.
+
+	Nuvem Híbrida = Os dois mundos, combina a pública com a privada.
+		As organizações determinam onde executar seus aplicativos.
+		As organizações controlam a segurança, a conformidade e os requisitos legais.
+		Fornece a maior flexibilidade.
+
+	Multicloud = Vários serviços de cloud com possiblidade de utlizar o datacenter junto também.
+
+
+
+	CapEx = Dispesas iniciais de dinheiro em infraestrutura física.  As despesas do CapEx tem um valor que se reduz com o tempo.
+
+	OpeEx = Gastar com produtos e serviços conforme necessário, pagamento conforme o uso.  Seja cobrado imediatamente.
 
 
 
 
 
-Modelo baseado em consumo = Os provedore de serviços em nuvem operam em um modelo baseado, o que significa que os usuários finais pagam somente pelos recursos que usam.
+	Modelo baseado em consumo = Os provedore de serviços em nuvem operam em um modelo baseado, o que significa que os usuários finais pagam somente pelos recursos que usam.
 
 		Melhor previsão de custos
 		São fornecidos preços para recursos e serviços individuais.
 		A cobrança é feita com base no seu uso real.
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+											Benefícios da nuvem
+
+
+
+
+
+	Alta disponibilidade = Serviço com disponiblidade máxima independente de interrupções ou ocorrência de eventos.
+
+		SLA = Garantia	
+	
+	Se o serviço ficar indisponível excedendo o limite de tolerância descrito no contrato, o cliente é ressarcido com o valor referente ao tempo que o serviço ficou indisponível.
+
+
+	Escalabilidade = Refere-se à capacidade de ajustar recursos para atender à demanda.  O outro benefício da escalabildiade é que você não está pagando além do necessário pelos serviços.
+	Como a núvem é um modelo baseado em consumo, você paga apenas pelo que usa.  Se a demanda cair, você poderá reduzir seus recursos e, assim, reduzir custos.
+	
+
+	Elasticidade = Com a elasticidade, se você experimentasse um salto repentino acentuado na demanda, seus recursos implantados poderiam ser expandidos (automaticamente ou manualmente).
+	Por exemplo, você pode adiionar máquinas virtuas ou contâiners por meio de expansão.
+	Da mesma forma, se houver uma queda significativamente na demanda, os recursos implantados poderão ser reduzidos horizontalmente (de maneira automática ou manual).
+
+	Confiabilidade = Devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente.
+	Com um design descentralizado, a nuvem permite que você tenha recursos implantados em várias regiões do mundo.
+
+	Previsibilidade = A previsibilidade na nuvem permite que você avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo Microsoft Azure Well-Architeture Framework.
+
+	Segurança = A nuvem oferece ferramentas de segurança que atendem às necessidade dos clientes mas, é imporntante lembrar que a implementação de muitas delas dever ser realizadas pelo cliente.
+	Se você quiser que a aplicação de patches e a manutenção sejam tratadas automaticamente, as implantações de plataforma como serviço ou software como serviço, podem ser as melhores estreatégias de nuvem para você.
+
+	Governança = A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação (Resolução).
+	Depedendo do seu modelo operacional, patches de software e atualizações também podem ser aplicados automaticamente, o que ajuda na governança e segurança.
+	Ao estabelecer uma presença de governança o mais cedo possível, você poderá manter sua presença de nuvem atualizada, protegida e pegar sem gerenciada.
+	
+
+
+
+
