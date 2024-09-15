@@ -154,6 +154,67 @@
 
 
 										Assinaturas Azure
-		
+
+
+	Assinatura de desenvolvimento
+	Assinatura do teste
+	Assinatura da produção
+
+
+
+	Uma assinatura fornece acesso autenticado e autorizado as funções do Azure.
+		Benefícios: Organização de cobrança e Limite de acesso
+	
+	Grupos de gerenciamento podem conter várias assinaturas Azure.
+
+	As assinaturas herdam as condições aplicadas ao grupo de gerenciamento.
+
+	
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+										Computação e rede
+
+
+
+Serviços de computação do Azure:
+
+	VMs, APPs, Containers, Azure Kubernetes Services (AKS), Area de trabalho virtual do Azure.
+
+	
+
+Máquinas Virtuais: Controle total da máquina no quesito a software (IaaS).
+Conjuntos de dimensionamento (VMs): Oferecem uma oportunidade de balanceamento de carga para dimensionar os recursos automaticamente.
+
+
+Área de trabalho do Azure: Basicamente é como acessar a área de trabalho remota, só que em uma máquina virtual na nuvem. Possibilita criar um ambiente completo de virtualização da área de trabalho, sem precisar executra outros
+servidores de gateway. Reduz o risco de que o recurso seja deixado para trás. Implantações reais de várias sessões.
+
+Contêiner do Azure: No Azure os contêiner fornecem um ambiente leve e virtualizado que não exige o gerenciamento do sistema operacional e pode responder a alterações sob demanda. Azure é compatível com Docker. Existem diversos serviços
+de contêiner no Azure. Este serviço é do tipo PaaS que executa uma contêiner ou pod de contêiners do Azure.
+
+AKS: Um serviço de orquestração para contêineres com arquiteturas distribuìdas e grandes volumes de contêineres.
+
+
+Azure functions: Oferta PaaS que da suporte a operações de computação sem servidor. O código baseado em eventos é executado quando chamado, sem exigir uma infraestrutura de servidor durante períodos inativos.
+
+
+Serviços de Aplicativo do Azure: Consiste em uma plataforma totalmente gerenciada para criar, implantar e dimensionar aplicativos Web e APIs rapidamente
+Linguagens que os serviços de apricativo do Azure trabalham: .NET, .NET Core, Node.Js, Java, Python ou php.
+
+Rede Virtual do Azure (VNet) permite que os recursos do Azure se comuniquem uns com os outros, com internet e com as redes locais, pontos de extremidade públicos, acessíveis de qualquer lugar na internet, pontos de extremidade privados,
+acessíveis somente de dentro da sua rede. O emparelhamento de rede conecta suas redes privadas diretamente. As sub-redes privadas segmentam sua rede para atender às suas necessidades.
+
+Gateway de VPN: É usado para enviar tráfego criptografado entre uma rede virtual do Azure e uma no local pela internet pública.
+
+ExpressRoute: Conexão direta via cabo (Ex conexão do cabo do datacenter da empresa com o data center da Microsoft). O ExpressRoute estende as redes locais para o Azure por meio de uma conexão privada facilitada por um provedor de
+conectividade.
+
+DNS do Azure: Confiabilidade e desempenho aproveitando uma rede global de servidores de nome DNS usando a rede Anycast. A segurança do DNS do Azure baseia-se no gerenciador de recursos do Azure, habilitando o controle de acesso baseado
+em função e o monitoramento e o resgistro em log. Facilidade de uso para gerenciar seus recursos externos e do Azure com um único serviço DNS.
+
+
+
 
 
